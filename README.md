@@ -27,9 +27,14 @@ for PowerShell.
 git clone https://github.com/longlin10086/vimrc.git
 ```
 
-4. Open the `.vimrc` file then type `:PlugInstall`.
+4. Run the install script.
 
 ```
 sh ~/vimrc/install.sh
 ```
 
+5. Open the `.vimrc` file then type `:PlugInstall`.
+
+```
+vim ~/.vimrc
+```

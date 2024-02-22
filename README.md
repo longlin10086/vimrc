@@ -5,7 +5,7 @@ This repo is a vim configuration file for personal use.
 ## Install
 
 1. Make sure `git` and `vim` are installed.
-2. Download [plug.vim]([junegunn/vim-plug: :hibiscus: Minimalist Vim Plugin Manager (github.com)](https://github.com/junegunn/vim-plug)).
+2. Download [plug.vim](https://github.com/junegunn/vim-plug).
 
 ```Unix
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
